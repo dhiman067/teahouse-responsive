@@ -1,0 +1,14 @@
+.tea-image-1{
+    width: 267px;
+height: 391px;
+background: linear-gradient(180deg, #F4F4F4 0%, rgba(244, 244, 244, 0) 100%);
+border-radius: 10px;
+text-align: center;
+
+
+}
+.tea-image-1 img{
+    margin-left: 65px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
